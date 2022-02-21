@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nuha-Midterm1,2022</string>
+    <string name="textview1">you are in Activty </string>
+    <string name="textview2">you are in activity </string>
+    <string name="textview3">you are in activty </string>
+    <string name="btn">go main activty</string>
+    <string name="btn2">activity2</string>
+    <string name="btn3">activty3</string>
+</resources>
